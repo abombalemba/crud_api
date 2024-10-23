@@ -1,0 +1,7 @@
+2024/10/23 22:16:11.687940 logger.go:26: initLogger successfully executed
+2024/10/23 22:16:15.824579 main.go:33: handlerCreateUser successfully started
+2024/10/23 22:16:15.825088 main.go:38: handlerCreateUser EOF
+2024/10/23 22:16:55.937212 main.go:33: handlerCreateUser successfully started
+2024/10/23 22:16:55.937212 main.go:38: handlerCreateUser EOF
+2024/10/23 22:20:15.554923 main.go:33: handlerCreateUser successfully started
+2024/10/23 22:20:15.554923 main.go:38: handlerCreateUser EOF
